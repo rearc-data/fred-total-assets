@@ -1,5 +1,6 @@
 
-# 
+Total Assets of Federal Reserve Banks | FRED
+=========================
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://github.com/rearc-data/fred-total-assets](https://github.com/rearc-data/fred-total-assets). 
 
