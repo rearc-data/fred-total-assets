@@ -21,9 +21,6 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 The values within the data field labeled `WALCL` represents the total assets that U.S. federal banks own in U.S. Dollars at the time of the corresponding field `date`.
 
-
-
-
 ## More Information
 - Source: [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/series/WALCL)
 - [FRED | Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
