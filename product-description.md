@@ -5,7 +5,7 @@ You can subscribe to the AWS Data Exchange product utilizing the automation feat
 
 ## Main Overview
 
-This release contains information on total assets in terms of U.S. Dollars and is on a Wednesday updating schedule.
+This release contains information on total assets that U.S. Federal Reserve Banks own in terms of U.S. Dollars.
 
 The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
