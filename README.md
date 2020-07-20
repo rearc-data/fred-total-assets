@@ -18,7 +18,7 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `date, WALCL`
 
-The values within the data field labeled `WALCL` represents the total assets that the U.S. owns at the time of the corresponding field `date`.
+The values within the data field labeled `WALCL` represents the total assets that U.S. federal banks own in U.S. Dollars at the time of the corresponding field `date`.
 
 
 
