@@ -23,7 +23,6 @@ def data_to_s3(frmt):
 
     else:
         data_set_name = os.environ['DATA_SET_NAME']
-        data_set_name = 'AVtest'
         filename = data_set_name + frmt
         file_location = '/tmp/' + filename
 
@@ -44,7 +43,7 @@ def data_to_s3(frmt):
         os.remove(file_location)
 
         # dicts to be used to add assets to the dataset revision
-        # return {'Bucket': s3_bucket, 'Key': new_s3_key + filename}
+        return {'Bucket': s3_bucket, 'Key': new_s3_key + filename}
 
 
 def source_dataset():
