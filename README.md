@@ -5,7 +5,7 @@
 Total Assets of Federal Reserve Banks | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-zqcxhavlqxdws](https://aws.amazon.com/marketplace/pp/prodview-zqcxhavlqxdws). 
 
 ## Main Overview
 
