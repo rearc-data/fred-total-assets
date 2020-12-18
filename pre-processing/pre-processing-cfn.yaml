@@ -85,7 +85,7 @@ Resources:
     Type: AWS::Events::Rule
     Properties:
       Description: "ScheduledRule"
-      ScheduleExpression: "cron(0 6 ? * 5 *)"
+      ScheduleExpression: "cron(0 6 ? * WED,THU,FRI *)"
       State: "ENABLED"
       Targets:
         -
@@ -117,4 +117,3 @@ Outputs:
   LambdaFunctionName:
     Value:
       Ref: LambdaFunction
-      
